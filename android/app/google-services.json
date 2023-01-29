@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1039002227079",
+    "project_id": "potty-mouth-373917",
+    "storage_bucket": "potty-mouth-373917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039002227079:android:83a48eaea0cd4f7a858322",
+        "android_client_info": {
+          "package_name": "com.matchstriker.pottymouth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039002227079-nv4vj7269c2qic3i7n36p3fdtriq8uv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHd9sA-mSADSzQIMqrQ_SvO2I6IURPIuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039002227079-nv4vj7269c2qic3i7n36p3fdtriq8uv4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039002227079-kl7dmkt5k8j6gnbtmdn9e4b126d5tr54.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.matchstriker.pottymouth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
